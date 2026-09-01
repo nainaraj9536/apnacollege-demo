@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is my frist github repository.
+this is my frist git repository.
 <br>
 Author-Naina raj
